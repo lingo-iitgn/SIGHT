@@ -24,8 +24,8 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 
 
 >  The primary task in SiGHT is hierarchical semantic classification of multimodal visual content. Given an image along with its associated metadata or caption, annotators assign:
-``` One primary category representing the dominant semantic theme of the image.```
-``` Optional secondary categories when additional semantic concepts occupy a substantial portion of the visual scene or are necessary for contextual understanding.```
+* ``` One primary category representing the dominant semantic theme of the image.```
+* ``` Optional secondary categories when additional semantic concepts occupy a substantial portion of the visual scene or are necessary for contextual understanding.```
 -  Each selected category must be paired with at least one corresponding subcategory, enabling fine-grained and semantically precise annotations within the hierarchical taxonomy.
 - Annotations are grounded primarily in the visual semantics of the image. Captions and metadata are used only as auxiliary contextual signals for source verification or ambiguity resolution.
 
