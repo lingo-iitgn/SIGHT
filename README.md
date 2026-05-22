@@ -3,8 +3,9 @@
 
 SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grounded and hierarchical visual understanding. It is designed to evaluate multimodal models across diverse global, regional, and culturally significant visual domains.
 
+<div align="center">
 <img alt="License" src="https://img.shields.io/badge/License-CC BY 4.0-blue"></a> </p> </div>
-
+</div>
 ---
 
 
