@@ -183,39 +183,8 @@ A consensus-based ground truth was constructed from the three annotations for us
 
 ## License
 
-Released under the **Apache-2.0 License**.
+Released under the **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Individual images may retain their original source licenses. Users are responsible for complying with source-specific licensing requirements.
 
 ---
-
-## Citation
-
-```bibtex
-@misc{chitrabhasha2026,
-  title={Chitrabhasha: Indic Multimodal Benchmark for Semantic Understanding},
-  author={LINGO Lab, IIT Gandhinagar},
-  year={2026}
-}
-```
-
----
-
-## Team
-
-Developed at [LINGO Lab, IIT Gandhinagar](https://lingo.iitgn.ac.in/)
-
-- Naren Kumar
-- Rajvee Sheth
-- Khushi Shukla
-- Indrayudh Mandal
-
----
-
-## Contact
-
-For issues, collaborations, or benchmark usage inquiries:
-
-- Open a [GitHub issue](../../issues)
-- Email: [khushi.clgwork2226@gmail.com](mailto:khushi.clgwork2226@gmail.com)
->>>>>>> de2dd6f (Initial commit: SIGHT benchmark dataset)
