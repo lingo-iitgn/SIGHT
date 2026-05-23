@@ -1,7 +1,4 @@
-# SIGHT — Structured Image-Grounded Hierarchical Taxonomy
-
-**Indic Multimodal Benchmark for Semantic Understanding in Vision-Language Models**
-Developed by LINGO Lab, IIT Gandhinagar
+# SIGHT: A Structured Image-Grounded Hierarchical Taxonomy for Evaluating Multimodal Cultural Alignment
 
 ---
 
