@@ -1,8 +1,15 @@
-<<<<<<< HEAD
+
 # SIGHT: A Structured Image-Grounded Hierarchical Taxonomy for Evaluating Multimodal Cultural Alignment
 
 
-SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grounded and hierarchical visual understanding. It is designed to evaluate multimodal models across diverse global, regional, and culturally significant visual domains.
+SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grounded and hierarchical visual understanding. It is designed to evaluate multimodal models across diverse global, regional, and culturally significant visual domains.It comprises over 5M image-caption pairs drawn from 450+ authoritative sources, spanning 13 culturally grounded semantic categories.
+
+The benchmark includes:
+- A high-quality manually annotated subset of 5,000+ instances
+- A structured human-in-the-loop annotation protocol
+- Inter-annotator agreement validated at Krippendorff's α = 0.680
+
+**Key finding:** Even advanced VLMs such as Llama-Vision achieve only **46.8% category-level accuracy** against expert human ground truth, exposing substantial limitations in hierarchical cultural and semantic reasoning.
 
 <div align="center">
 <img alt="License" src="https://img.shields.io/badge/License-CC BY 4.0-blue"></a> </p> </div>
@@ -52,29 +59,7 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 | **Community & Social Life**        | Villages & Rural Life; Community Gatherings; Public Events; Street Life; Family & Household; Daily Routines                         |
 | **Urban Development & Buildings**  | Residential Buildings; Commercial Complexes; Heritage Architecture; Construction Sites; City Planning                               |
 
-## 📄 License
 
-This dataset is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-=======
-# SIGHT — Structured Image-Grounded Hierarchical Taxonomy
-
-**Indic Multimodal Benchmark for Semantic Understanding in Vision-Language Models**
-Developed by LINGO Lab, IIT Gandhinagar
-
----
-
-## What is SIGHT?
-
-SIGHT is a large-scale, hierarchically annotated benchmark corpus for evaluating multimodal cultural alignment in Vision-Language Models (VLMs). It comprises over 5M image-caption pairs drawn from 450+ authoritative sources, spanning 13 culturally grounded semantic categories.
-
-The benchmark includes:
-- A high-quality manually annotated subset of 5,000+ instances
-- A structured human-in-the-loop annotation protocol
-- Inter-annotator agreement validated at Krippendorff's α = 0.680
-
-**Key finding:** Even advanced VLMs such as Llama-Vision achieve only **46.8% category-level accuracy** against expert human ground truth, exposing substantial limitations in hierarchical cultural and semantic reasoning.
-
----
 
 ## Dataset at a Glance
 
@@ -90,27 +75,7 @@ The benchmark includes:
 
 ---
 
-## Taxonomy
 
-The dataset spans 13 culturally rich, semantically diverse domains:
-
-| # | Category |
-|---|---|
-| 1 | Cultural & Societal |
-| 2 | Religion & Tradition |
-| 3 | Geographic & Environment |
-| 4 | Infrastructure & Public Spaces |
-| 5 | Education & Literacy |
-| 6 | Commerce & Economy |
-| 7 | Digital & Print Media |
-| 8 | Scripts & Multilingual Text |
-| 9 | Historical & Archival Data |
-| 10 | Science & Engineering |
-| 11 | Sports & Competition |
-| 12 | Community & Social Life |
-| 13 | Urban Development & Buildings |
-
----
 
 ## Repository Structure
 
