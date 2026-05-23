@@ -184,6 +184,4 @@ A consensus-based ground truth was constructed from the three annotations for us
 
 Released under the **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Individual images may retain their original source licenses. Users are responsible for complying with source-specific licensing requirements.
-
 ---
