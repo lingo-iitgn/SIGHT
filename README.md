@@ -177,7 +177,6 @@ A consensus-based ground truth was constructed from the three annotations for us
 - Multilingual multimodal retrieval
 - Taxonomy-aware reasoning
 - Cross-cultural semantic analysis
-- Indic AI research
 
 ---
 
