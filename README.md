@@ -4,13 +4,6 @@
 
 SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grounded and hierarchical visual understanding. It is designed to evaluate multimodal models across diverse global, regional, and culturally significant visual domains.It comprises over 5M image-caption pairs drawn from 450+ authoritative sources, spanning 13 culturally grounded semantic categories.
 
-The benchmark includes:
-- A high-quality manually annotated subset of 5,000+ instances
-- A structured human-in-the-loop annotation protocol
-- Inter-annotator agreement validated at Krippendorff's α = 0.680
-
-**Key finding:** Even advanced VLMs such as Llama-Vision achieve only **46.8% category-level accuracy** against expert human ground truth, exposing substantial limitations in hierarchical cultural and semantic reasoning.
-
 <div align="center">
 <img alt="License" src="https://img.shields.io/badge/License-CC BY 4.0-blue"></a> </p> </div>
 </div>
@@ -22,6 +15,7 @@ The benchmark includes:
 - **Modality:** Image–Text
 - **Task Type:** `Hierarchical Multi-label Classification`
 - **Scale:** 5M+ image–caption pairs curated from 450+ global sources out of which 5,086 Instances annotated by three annotators.
+- **Inter-annotator agreement** validated at Krippendorff's α = 0.680
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
