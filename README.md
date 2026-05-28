@@ -69,7 +69,11 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 ---
 
 > SIGHT taxonomy: 13 top-level categories and representative subcategories, illustrated with example images from the benchmark.
-<img width="1575" height="1265" alt="Picture_page-0001" src="https://github.com/user-attachments/assets/5a511a0f-0dda-4fec-8e11-caa1c96739f6" />
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a511a0f-0dda-4fec-8e11-caa1c96739f6" width="800">
+</p>
 
 ## Curation Pipeline
 
