@@ -75,7 +75,7 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 
 Overview of the *SIGHT* construction and evaluation pipeline, from large-scale web crawling and filtering to hierarchical annotation and benchmarking of VLMs under zero-shot, few-shot and SFT settings:
 
-<img width="1718" height="881" alt="pipeline-pic_page-0001" src="https://github.com/user-attachments/assets/38730ea1-0410-4829-b057-5b194cc908f4" />
+<img width="1575" height="881" alt="pipeline-pic_page-0001" src="https://github.com/user-attachments/assets/38730ea1-0410-4829-b057-5b194cc908f4" />
 
 ## Repository Structure
 
