@@ -1,3 +1,5 @@
+[Picture.pdf](https://github.com/user-attachments/files/28344747/Picture.pdf)
+[Picture.pdf](https://github.com/user-attachments/files/28344728/Picture.pdf)
 
 # SIGHT: A Structured Image-Grounded Hierarchical Taxonomy for Evaluating Multimodal Cultural Alignment
 
@@ -69,6 +71,8 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 
 ---
 
+> SIGHT taxonomy: 13 top-level categories and representative subcategories, illustrated with example images from the benchmark.
+<img width="1575" height="1265" alt="Picture_page-0001" src="https://github.com/user-attachments/assets/5a511a0f-0dda-4fec-8e11-caa1c96739f6" />
 
 
 ## Repository Structure
