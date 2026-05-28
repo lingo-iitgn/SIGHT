@@ -15,7 +15,7 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 ## 📝 Dataset Summary
 
 - **Modality:** Image–Text
-- **Task Type:** `Hierarchical Multi-label Classification`
+- **Task Type:** `Image Classification`
 - **Scale:** 5M+ image–caption pairs curated from 450+ global sources out of which 5,086 Instances annotated by three annotators.
 - **Inter-annotator agreement** validated at Krippendorff's α = 0.680
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
