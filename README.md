@@ -162,7 +162,7 @@ A consensus-based ground truth was constructed from the three annotations for us
 |---|---|
 | Wikimedia Commons | Open media repository |
 | Press Information Bureau | Government releases |
-| The Hindu, Times of India | News media |
+| Internet Archive| Open access |
 | Public Archival Collections | Historical records |
 
 > Original licenses and attributions belong to their respective owners.
