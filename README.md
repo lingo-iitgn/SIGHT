@@ -1,6 +1,3 @@
-[Picture.pdf](https://github.com/user-attachments/files/28344747/Picture.pdf)
-[Picture.pdf](https://github.com/user-attachments/files/28344728/Picture.pdf)
-
 # SIGHT: A Structured Image-Grounded Hierarchical Taxonomy for Evaluating Multimodal Cultural Alignment
 
 
@@ -76,7 +73,7 @@ SIGHT is a large-scale, Human-annotated multimodal benchmark for culturally grou
 
 ## Curation Pipeline
 
-Overview of the *SIGHT* construction and evaluation pipeline, from large-scale web crawling and filtering to hierarchical annotation and benchmarking of VLMs under zero-shot, few-shot and SFT settings
+Overview of the *SIGHT* construction and evaluation pipeline, from large-scale web crawling and filtering to hierarchical annotation and benchmarking of VLMs under zero-shot, few-shot and SFT settings:
 
 <img width="1718" height="881" alt="pipeline-pic_page-0001" src="https://github.com/user-attachments/assets/38730ea1-0410-4829-b057-5b194cc908f4" />
 
